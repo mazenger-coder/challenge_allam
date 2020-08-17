@@ -1,4 +1,5 @@
-# Readme for the Site_Capacity.py
+Readme for the Site_Capacity.py
+=================================
 
 The goal of this Python script is to write a function that reads certain values from an Excel file and calculates the sum. The script expects 3 inputs from the user. On the one hand the skill on the other hand the year and month. In this script the user is asked to enter the desired skill at the beginning. Then the desired year and then the month. The desired data is then read and the sum is calculated. 
 
@@ -32,7 +33,8 @@ After all three entries have been made, the total is calculated and returned.
 
 	The sum of the skill: 2.3
 
-##Error messages
+Error messages
+---------------
 
 If lower case letters are entered instead of upper case letters, the letters are automatically converted to upper case and the user does not have to take care of it actively. 
 
