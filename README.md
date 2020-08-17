@@ -6,15 +6,15 @@ By means of an example the functionality of the script shall be shown.
 
 At the beginning the user is asked to enter the desired skill: 
 	
-	__Please enter the skill:__
+	Please enter the skill:
 
 Then the user has to make an entry and press enter 
 	 
-	*User : DD*
+	User : DD
 
 After this has been done, the user is asked again to make an entry but this time the desired year:
 	
-	__~Please enter the year:__
+	Please enter the year:
 
 Then the user has to make an entry and press enter. This time the input must not be a string, it can only be an integer.
 	
@@ -22,13 +22,13 @@ Then the user has to make an entry and press enter. This time the input must not
 
 And one last time the user is asked to make an entry:
 	
-	__Please enter the month:__
+	Please enter the month:
 
 Then the user has to make an entry and press enter.
 	
-	*User: 12*
+	User: 12
 
 After all three entries have been made, the total is calculated and returned.
 
-	__The sum of the skill: 2.3__
+	The sum of the skill: 2.3
 
