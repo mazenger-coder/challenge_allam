@@ -6,6 +6,8 @@ try:
 	site_capacity = pd.read_excel('Site_Capacity.xlsx', sheet_name='Sheet1')
 	# parse user input as strings
 	skill_input = input("Please enter the skill: ")
+	if skill_input.isupper() == False:
+            skill_input = skill_input.upper()
 	year = input("Please enter the year: ")
 	month = input("Please enter the month: ")
 	index = 0
