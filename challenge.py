@@ -27,4 +27,4 @@ except FileNotFoundError as file_error:
 except xlrd.XLRDError as xlrd_error:
 	print(xlrd_error)
 except ValueError:
-	print("Please enter valid input"git )
+	print("Please enter valid input")
