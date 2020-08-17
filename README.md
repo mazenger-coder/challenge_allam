@@ -1,7 +1,7 @@
 Readme for the Site_Capacity.py
 =================================
 
-The goal of this Python script is to write a function that reads certain values from an Excel file and calculates the sum. The script expects 3 inputs from the user. On the one hand the skill on the other hand the year and month. In this script the user is asked to enter the desired skill at the beginning. Then the desired year and then the month. The desired data is then read and the sum is calculated. 
+The goal of this Python script is to write a function that reads certain values from an Excel file and calculates the sum. The script expects 3 inputs from the user, skill month and year. In this script the user is asked to enter the desired skill at the beginning. Then the desired year and then the month. The desired data is then read and the sum is calculated. 
 
 By means of an example the functionality of the script shall be shown.
 
