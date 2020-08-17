@@ -33,6 +33,7 @@ After all three entries have been made, the total is calculated and returned.
 	The sum of the skill: 2.3
 
 ##Error messages
+
 If lower case letters are entered instead of upper case letters, the letters are automatically converted to upper case and the user does not have to take care of it actively. 
 
 If values are entered for the month that are not between 1 and 12, an error message is displayed and the user is prompted to repeat his entry. The same applies to the years. If no valid year number is entered, an error message is displayed.
