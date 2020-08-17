@@ -18,7 +18,7 @@ After this has been done, the user is asked again to make an entry but this time
 
 Then the user has to make an entry and press enter. This time the input must not be a string, it can only be an integer.
 	
-	*User : 2020*
+	User : 2020
 
 And one last time the user is asked to make an entry:
 	
